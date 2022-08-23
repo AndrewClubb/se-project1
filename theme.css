@@ -40,7 +40,11 @@ h5 {
     position: relative; right:-100px;
     max-width: 900px;
   }
-
+  ul{
+    color: #E6E6FA;
+    font-size: 25px;
+    position: relative;
+   }
 
   p{
    color: #E6E6FA;
