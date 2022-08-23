@@ -19,7 +19,14 @@
 .img2{
     height: 90; width: 90;
     }
-  h5 {
+   h4 {
+    text-align: left;
+    color: #E6E6FA;
+    font-size: 45px; 
+    max-width: 1200px;
+  }
+
+h5 {
     text-align: left;
     color: #E6E6FA;
     font-size: 45px; 
